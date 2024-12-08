@@ -1,1 +1,1 @@
-# The_Basics_of_Gaming_AI_elective
+# Введение в GameDev: основы игрового ИИ
