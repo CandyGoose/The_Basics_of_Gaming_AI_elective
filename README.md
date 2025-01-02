@@ -13,3 +13,6 @@
 
 ### Проект
 [Delivery game](https://github.com/CandyGoose/Delivery_game)
+
+### Материалы
+[Лекции](https://github.com/CandyGoose/The_Basics_of_Gaming_AI_elective/tree/main/lectures)
