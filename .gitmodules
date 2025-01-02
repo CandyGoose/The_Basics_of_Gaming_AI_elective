@@ -1,0 +1,6 @@
+[submodule "Five_in_a_row_AI"]
+	path = Five_in_a_row_AI
+	url = https://github.com/CandyGoose/Five_in_a_row_AI
+[submodule "Delivery_game"]
+	path = Delivery_game
+	url = https://github.com/CandyGoose/Delivery_game
